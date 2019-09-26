@@ -6,6 +6,6 @@ I wasn't particularly into it, and didn't find the AR aspect of it vital or inte
 
 0th VR Lab: Development Setup
 
-1st VR Lab: 
+1st VR Lab: Utilized the objects from the VRTK sample scene to create a face-like strcuture that the player snaps onto the size of the building in the scene.
 
 Rumpelstiltskin
