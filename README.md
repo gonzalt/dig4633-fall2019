@@ -10,3 +10,5 @@ I wasn't particularly into it, and didn't find the AR aspect of it vital or inte
      * Bug - Screen goes black when against the building.
 
 Rumpelstiltskin
+
+2nd AR Lab: Ran a basic setup for AR implementation using Vuforia assets. 
