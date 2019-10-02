@@ -13,9 +13,3 @@ Rumpelstiltskin
 
 2nd AR Lab: Ran a basic setup for AR implementation using Vuforia assets. 
 
-In build settings, switch to android, go to android settings, delete vulkan api, change package name, make sure minimum api level is set to 26
-build, as APK, 
-
-on github, releases, give it a tag, and a name
-Write some description
-attach binary files (apk), mark as pre-release, and publish
